@@ -1,14 +1,18 @@
 {
-  "name": "frontend",
+  "name": "BZ-Generator",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "test:unit": "vue-cli-service test:unit",
+    "test": "vue-cli-service test:unit --verbose",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^3.0.0-4",
+    "@kyvg/vue3-notification": "^2.3.3",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vuex": "^4.0.0-0"
@@ -34,3 +38,4 @@
     "vue-jest": "^5.0.0-0"
   }
 }
+
