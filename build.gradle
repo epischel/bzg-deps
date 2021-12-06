@@ -22,7 +22,7 @@ dependencies {
   implementation 'org.apache.poi:poi:5.1.0'
   implementation 'org.apache.commons:commons-lang3:3.12.0'
   implementation "org.apache.poi:poi-ooxml:5.1.0"
-  implementation "org.json:json:20210307"
+  implementation "org.json:json:20211205"
   
   implementation 'mysql:mysql-connector-java'
   testImplementation 'org.springframework.boot:spring-boot-starter-test'
