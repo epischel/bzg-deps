@@ -29,7 +29,7 @@ dependencies {
     implementation "com.h2database:h2:1.4.200"
     implementation 'mysql:mysql-connector-java'
     runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:2.4.1'
-    runtimeOnly 'io.micrometer:micrometer-registry-prometheus:1.10.4'
+    runtimeOnly 'io.micrometer:micrometer-registry-prometheus:1.10.6'
     runtimeOnly 'net.logstash.logback:logstash-logback-encoder:7.3'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation "org.awaitility:awaitility:4.2.0"
