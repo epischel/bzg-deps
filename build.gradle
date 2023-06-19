@@ -30,7 +30,7 @@ dependencies {
     implementation 'mysql:mysql-connector-java'
     runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:2.4.1'
     runtimeOnly 'io.micrometer:micrometer-registry-prometheus:1.10.6'
-    runtimeOnly 'net.logstash.logback:logstash-logback-encoder:7.3'
+    runtimeOnly 'net.logstash.logback:logstash-logback-encoder:7.4'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation "org.awaitility:awaitility:4.2.0"
     testImplementation "org.junit.jupiter:junit-jupiter:5.9.2"
