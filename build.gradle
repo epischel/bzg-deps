@@ -35,5 +35,5 @@ dependencies {
     testImplementation "org.awaitility:awaitility:4.2.0"
     testImplementation "org.junit.jupiter:junit-jupiter:5.9.2"
     testImplementation 'com.h2database:h2:1.4.200'
-    testImplementation 'com.icegreen:greenmail-junit5:2.0.0-alpha-3'
+    testImplementation 'com.icegreen:greenmail-junit5:2.1.0-alpha-2'
 }
