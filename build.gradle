@@ -28,7 +28,7 @@ dependencies {
     implementation "org.json:json:20220924"
     implementation "com.h2database:h2:1.4.200"
     implementation 'mysql:mysql-connector-java'
-    runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:2.4.1'
+    runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:3.1.2'
     runtimeOnly 'io.micrometer:micrometer-registry-prometheus:1.11.2'
     runtimeOnly 'net.logstash.logback:logstash-logback-encoder:7.3'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
