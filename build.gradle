@@ -31,7 +31,7 @@ dependencies {
     runtimeOnly 'net.logstash.logback:logstash-logback-encoder:7.4'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation "org.awaitility:awaitility:4.2.0"
-    testImplementation "org.junit.jupiter:junit-jupiter:5.10.0"
+    testImplementation "org.junit.jupiter:junit-jupiter:5.10.1"
     testImplementation 'com.h2database:h2:1.4.200'
     testImplementation 'com.icegreen:greenmail-junit5:2.0.0'
 }
