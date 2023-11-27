@@ -21,9 +21,9 @@ dependencies {
     implementation "mysql:mysql-connector-java:8.0.33"
     implementation 'org.projectlombok:lombok:1.18.30'
     implementation 'javax.xml.bind:jaxb-api:2.3.1'
-    implementation 'org.apache.poi:poi:5.2.4'
+    implementation 'org.apache.poi:poi:5.2.5'
     implementation 'org.apache.commons:commons-lang3:3.13.0'
-    implementation "org.apache.poi:poi-ooxml:5.2.4"
+    implementation "org.apache.poi:poi-ooxml:5.2.5"
     implementation "org.json:json:20230618"
     implementation 'mysql:mysql-connector-java'
     runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:3.1.1'
