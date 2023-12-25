@@ -26,7 +26,7 @@ dependencies {
     implementation "org.apache.poi:poi-ooxml:5.2.4"
     implementation "org.json:json:20230618"
     implementation 'mysql:mysql-connector-java'
-    runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:3.1.1'
+    runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:3.1.5'
     runtimeOnly 'io.micrometer:micrometer-registry-prometheus:1.11.4'
     runtimeOnly 'net.logstash.logback:logstash-logback-encoder:7.4'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
