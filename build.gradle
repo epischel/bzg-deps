@@ -24,7 +24,7 @@ dependencies {
     implementation 'org.apache.poi:poi:5.2.5'
     implementation 'org.apache.commons:commons-lang3:3.14.0'
     implementation "org.apache.poi:poi-ooxml:5.2.5"
-    implementation "org.json:json:20231013"
+    implementation "org.json:json:20240303"
     implementation 'mysql:mysql-connector-java'
     runtimeOnly 'io.pivotal.cfenv:java-cfenv-boot:3.1.5'
     runtimeOnly 'io.micrometer:micrometer-registry-prometheus:1.12.2'
